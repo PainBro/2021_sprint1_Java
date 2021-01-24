@@ -6,9 +6,7 @@ A repository for my first attempt at a Java program. Done between January 11th a
 
 This Java program is my first attempt at using the Java language. For 2 weeks I learned and implimented Java to create a simple program to recieve the data for a card from the trading card game Magic the Gathering. It then takes those cards and stores their data in a file.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZZ4YRxnMyG8)
 
 # Development Environment
 
